@@ -1,4 +1,4 @@
-# Projeto Curricum Page 📄📄
+# Projeto Curriculum Page 📄📄
 
 Página desenvolvida para exercitar conceitos de CSS e HTML. O código foi orientado, em parte por intrutor 🙏 e posteriormente modificado por mim 😎.
 
